@@ -1,5 +1,7 @@
 # Garage App 🚗🔧🏍️
 
+![Screenshot 2024-04-14 192621](https://github.com/PierceP123/Garage-App-Android-Studio/assets/108479412/06b93d9a-07bc-4322-b308-0594587bda9f)
+
 ## Overview
 
 Garage App is an Android Studio project designed for customers to view garage inventory. 
